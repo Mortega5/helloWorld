@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Nuevo archivo en la rama "Master".
+=======
+Esta es un archivo nuevo en la rama "testeo".
+>>>>>>> errores
