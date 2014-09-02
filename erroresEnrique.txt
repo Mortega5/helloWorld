@@ -1,1 +1,2 @@
 Este es un fichero para listar errores.
+Error 777.
